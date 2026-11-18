@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mission AI Qadeer</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_library">Library</string>
+    <string name="studio_title">Mission AI Qadeer</string>
+    <string name="studio_subtitle">Direct &amp; render AI videos for free with Gemini</string>
+    <string name="prompt_label">Describe your video</string>
+    <string name="prompt_hint">e.g., A lone astronaut walking across glowing neon dunes under twin moons...</string>
+    <string name="enhance_prompt">Enhance with AI</string>
+    <string name="enhancing_prompt">Enhancing...</string>
+    <string name="generate_video">Generate AI Video</string>
+    <string name="generating_video">Creating Reel...</string>
+    <string name="library_title">Your Reels</string>
+    <string name="library_empty_title">No AI reels yet</string>
+    <string name="library_empty_body">Describe a scene in the Studio and Gemini will direct, narrate, and encode a playable MP4 video right on your device.</string>
+    <string name="library_empty_cta">Create Your First Video</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="share_video">Share MP4</string>
+    <string name="rerender_video">Re-render MP4</string>
+    <string name="storyboard_title">AI Director Storyboard</string>
+    <string name="back_cd">Navigate back</string>
+    <string name="play_pause_cd">Play or pause video</string>
+    <string name="mute_cd">Toggle audio mute</string>
+    <string name="loop_cd">Toggle loop playback</string>
+    <string name="delete_cd">Delete video</string>
+</resources>

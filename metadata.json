@@ -1,0 +1,6 @@
+{
+  "name": "Mission AI Qadeer",
+  "description": "AI storyboard and MP4 video generator that turns text prompts into animated, narrated videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
